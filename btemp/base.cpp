@@ -145,7 +145,7 @@ bool chmax(T &a, U b)
 
 #define intt int32_t
 #define int long long
-#define endl '\n'
+// #define endl '\n'
 
 typedef long long ll;
 typedef pair<int, int> pi;
